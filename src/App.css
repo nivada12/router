@@ -1,0 +1,9 @@
+.card {
+  max-width: 18rem;
+}
+
+html,
+body {
+  background-color: rgb(5, 5, 5);
+  color: white;
+}
